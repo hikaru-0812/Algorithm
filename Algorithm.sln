@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum", "TwoNumberSum\TwoNumberSum.csproj", "{95E8087B-B414-4BF7-982E-B9D98EFEC4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSumLinkList", "TwoNumberSumLinkList\TwoNumberSumLinkList.csproj", "{35C2A8A7-7FDB-4CD5-8908-4D6D8266FDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedRandom", "WeightedRandom\WeightedRandom.csproj", "{AE5068EA-0C50-4DF5-81AA-3D47C6E45022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E8087B-B414-4BF7-982E-B9D98EFEC4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E8087B-B414-4BF7-982E-B9D98EFEC4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E8087B-B414-4BF7-982E-B9D98EFEC4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E8087B-B414-4BF7-982E-B9D98EFEC4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C2A8A7-7FDB-4CD5-8908-4D6D8266FDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C2A8A7-7FDB-4CD5-8908-4D6D8266FDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C2A8A7-7FDB-4CD5-8908-4D6D8266FDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C2A8A7-7FDB-4CD5-8908-4D6D8266FDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5068EA-0C50-4DF5-81AA-3D47C6E45022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5068EA-0C50-4DF5-81AA-3D47C6E45022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5068EA-0C50-4DF5-81AA-3D47C6E45022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5068EA-0C50-4DF5-81AA-3D47C6E45022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
